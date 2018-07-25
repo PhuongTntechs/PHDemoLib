@@ -1,0 +1,22 @@
+{
+  "name": "PHDemoLib",
+  "version": "0.1.0",
+  "summary": "A short description of PHDemoLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PhuongTntechs/PHDemoLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PhuongTntechs": "kid.tn01@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/PhuongTntechs/PHDemoLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PHDemoLib/Classes/**/*"
+}

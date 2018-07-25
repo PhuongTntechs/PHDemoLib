@@ -1,0 +1,16 @@
+PODS:
+  - PHDemoLib (0.1.0)
+
+DEPENDENCIES:
+  - PHDemoLib (from `../`)
+
+EXTERNAL SOURCES:
+  PHDemoLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PHDemoLib: e889818c24ce9708f63963b013e766fb967831f9
+
+PODFILE CHECKSUM: c05cc655ddae2a93e228195e5fc57b234a73074a
+
+COCOAPODS: 1.5.0
